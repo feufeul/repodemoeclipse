@@ -15,6 +15,8 @@ public class App
 
 	private static void showPoolingFrameworks() {
 		System.out.println("===== HickariCP =====");
+		System.out.println("===== C3P0 =====");
+		
 	}
 
 	private static void showLoggingFrameworks() {
