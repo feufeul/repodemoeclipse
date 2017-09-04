@@ -6,6 +6,9 @@ package be.formation;
  */
 public class App 
 {
+	/**
+	 * Commentaire ajoué sur la main
+	 */
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
